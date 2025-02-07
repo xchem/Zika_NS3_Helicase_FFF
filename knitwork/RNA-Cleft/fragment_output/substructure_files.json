@@ -1,0 +1,135 @@
+{
+  "7ga1-a": {
+    "subnode": {
+      "c1ccsc1": [
+        "subnode_7ga1-a_c1ccsc1_0.mol"
+      ]
+    },
+    "synthon": {
+      "[Xe]c1ccsc1": [
+        "synthon_7ga1-a_[Xe]c1ccsc1_0.mol"
+      ]
+    }
+  },
+  "8v7u-a": {
+    "subnode": {},
+    "synthon": {}
+  },
+  "7g9m-a": {
+    "subnode": {
+      "C1CNCCN1": [
+        "subnode_7g9m-a_C1CNCCN1_0.mol"
+      ]
+    },
+    "synthon": {
+      "[Xe]N1CCNCC1": [
+        "synthon_7g9m-a_[Xe]N1CCNCC1_0.mol"
+      ]
+    }
+  },
+  "8um3-a": {
+    "subnode": {
+      "c1cnn2nnnc2c1": [
+        "subnode_8um3-a_c1cnn2nnnc2c1_0.mol"
+      ]
+    },
+    "synthon": {}
+  },
+  "7g9t-a": {
+    "subnode": {
+      "COC(=O)CNC=O": [
+        "subnode_7g9t-a_COC(=O)CNC=O_0.mol"
+      ]
+    },
+    "synthon": {
+      "COC(=O)CNC(=O)[Xe]": [
+        "synthon_7g9t-a_COC(=O)CNC(=O)[Xe]_0.mol"
+      ]
+    }
+  },
+  "5rhg-a": {
+    "subnode": {},
+    "synthon": {}
+  },
+  "7ga2-a": {
+    "subnode": {
+      "C1CCNC1": [
+        "subnode_7ga2-a_C1CCNC1_0.mol"
+      ]
+    },
+    "synthon": {
+      "[Xe]N1CCCC1": [
+        "synthon_7ga2-a_[Xe]N1CCCC1_0.mol"
+      ],
+      "[Xe]C1CCCN1": [
+        "synthon_7ga2-a_[Xe]C1CCCN1_0.mol"
+      ]
+    }
+  },
+  "7ga3-a": {
+    "subnode": {
+      "O=S1(=O)CCC1": [
+        "subnode_7ga3-a_O=S1(=O)CCC1_0.mol"
+      ]
+    },
+    "synthon": {
+      "O=S1(=O)CC([Xe])C1": [
+        "synthon_7ga3-a_O=S1(=O)CC([Xe])C1_0.mol"
+      ]
+    }
+  },
+  "8v7r-b": {
+    "subnode": {
+      "O=C1CNC(=O)N1": [
+        "subnode_8v7r-b_O=C1CNC(=O)N1_0.mol"
+      ]
+    },
+    "synthon": {
+      "O=C1NC(=O)C([Xe])N1": [
+        "synthon_8v7r-b_O=C1NC(=O)C([Xe])N1_0.mol"
+      ]
+    }
+  },
+  "7g9y-a": {
+    "subnode": {
+      "CC(C)C": [
+        "subnode_7g9y-a_CC(C)C_0.mol",
+        "subnode_7g9y-a_CC(C)C_1.mol",
+        "subnode_7g9y-a_CC(C)C_2.mol",
+        "subnode_7g9y-a_CC(C)C_3.mol"
+      ],
+      "c1ncc2c(n1)CCNC2": [
+        "subnode_7g9y-a_c1ncc2c(n1)CCNC2_0.mol"
+      ]
+    },
+    "synthon": {
+      "[Xe]c1ncc2c(n1)CCNC2": [
+        "synthon_7g9y-a_[Xe]c1ncc2c(n1)CCNC2_0.mol"
+      ],
+      "CC(C)(C)[Xe]": [
+        "synthon_7g9y-a_CC(C)(C)[Xe]_0.mol",
+        "synthon_7g9y-a_CC(C)(C)[Xe]_1.mol",
+        "synthon_7g9y-a_CC(C)(C)[Xe]_2.mol",
+        "synthon_7g9y-a_CC(C)(C)[Xe]_3.mol"
+      ]
+    }
+  },
+  "7g9k-a": {
+    "subnode": {
+      "C1CNCCN1": [
+        "subnode_7g9k-a_C1CNCCN1_0.mol"
+      ],
+      "O=CCC(F)(F)F": [
+        "subnode_7g9k-a_O=CCC(F)(F)F_0.mol"
+      ]
+    },
+    "synthon": {
+      "O=C([Xe])CC(F)(F)F": [
+        "synthon_7g9k-a_O=C([Xe])CC(F)(F)F_0.mol"
+      ],
+      "[Xe]N1CCNCC1": [
+        "synthon_7g9k-a_[Xe]N1CCNCC1_0.mol"
+      ]
+    }
+  }
+}

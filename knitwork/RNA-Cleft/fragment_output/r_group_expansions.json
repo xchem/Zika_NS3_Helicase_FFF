@@ -1,0 +1,58 @@
+{
+  "7ga1-a": {
+    "[Xe]C1CCCC1": [
+      "O=C(O)[Xe]"
+    ],
+    "[Xe]c1ccsc1": [
+      "O=C(O)[Xe]"
+    ]
+  },
+  "8v7u-a": {
+    "[Xe]C1CCCC1": [
+      "[Xe]c1ncno1"
+    ]
+  },
+  "7g9m-a": {
+    "[Xe]c1ccccc1": [
+      "O=CN[Xe]",
+      "F[Xe]"
+    ],
+    "[Xe]N1CCNCC1": [
+      "NC(=O)[Xe]",
+      "C[Xe]"
+    ]
+  },
+  "8um3-a": {},
+  "7g9t-a": {},
+  "5rhg-a": {
+    "[Xe]c1ccccc1": [
+      "NCC(=O)N[Xe]",
+      "CO[Xe]",
+      "C[Xe]"
+    ]
+  },
+  "7ga2-a": {
+    "[Xe]C1CCCN1": [
+      "CS(=O)(=O)[Xe]",
+      "C[Xe]",
+      "COC(=O)[Xe]"
+    ],
+    "[Xe]N1CCCC1": [
+      "C[Xe]",
+      "COC(=O)[Xe]"
+    ]
+  },
+  "7ga3-a": {},
+  "8v7r-b": {
+    "O=C1NC(=O)C([Xe])N1": [
+      "C[Xe]",
+      "CC[Xe]"
+    ],
+    "[Xe]c1ccccc1": [
+      "CO[Xe]",
+      "CC[Xe]"
+    ]
+  },
+  "7g9y-a": {},
+  "7g9k-a": {}
+}

@@ -1,0 +1,78 @@
+{
+  "7ga1-a-7ga3-a": [
+    [
+      "c1ccsc1",
+      "O=S1(=O)CC([Xe])C1"
+    ]
+  ],
+  "7ga1-a-7g9y-a": [
+    [
+      "c1ccsc1",
+      "[Xe]c1ncc2c(n1)CCNC2"
+    ]
+  ],
+  "7ga2-a-7ga3-a": [
+    [
+      "C1CCNC1",
+      "O=S1(=O)CC([Xe])C1"
+    ]
+  ],
+  "7ga2-a-7g9y-a": [
+    [
+      "C1CCNC1",
+      "[Xe]c1ncc2c(n1)CCNC2"
+    ]
+  ],
+  "7ga3-a-7ga1-a": [
+    [
+      "O=S1(=O)CCC1",
+      "[Xe]c1ccsc1"
+    ]
+  ],
+  "7ga3-a-7ga2-a": [
+    [
+      "O=S1(=O)CCC1",
+      "[Xe]N1CCCC1"
+    ],
+    [
+      "O=S1(=O)CCC1",
+      "[Xe]C1CCCN1"
+    ]
+  ],
+  "7ga3-a-7g9y-a": [
+    [
+      "O=S1(=O)CCC1",
+      "[Xe]c1ncc2c(n1)CCNC2"
+    ],
+    [
+      "O=S1(=O)CCC1",
+      "CC(C)(C)[Xe]"
+    ]
+  ],
+  "7g9y-a-7ga1-a": [
+    [
+      "c1ncc2c(n1)CCNC2",
+      "[Xe]c1ccsc1"
+    ]
+  ],
+  "7g9y-a-7ga2-a": [
+    [
+      "c1ncc2c(n1)CCNC2",
+      "[Xe]N1CCCC1"
+    ],
+    [
+      "c1ncc2c(n1)CCNC2",
+      "[Xe]C1CCCN1"
+    ]
+  ],
+  "7g9y-a-7ga3-a": [
+    [
+      "CC(C)C",
+      "O=S1(=O)CC([Xe])C1"
+    ],
+    [
+      "c1ncc2c(n1)CCNC2",
+      "O=S1(=O)CC([Xe])C1"
+    ]
+  ]
+}
