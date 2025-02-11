@@ -1,0 +1,2157 @@
+ver_1.2
+     RDKit          3D
+
+ 19 21  0  0  0  0  0  0  0  0999 V2000
+    6.1475   -0.2460   -0.7131 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0034   -1.2565   -0.5540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7246   -0.5377   -0.2560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3683   -0.2852    1.0159 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2368    0.3555    1.3703 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4207    0.7617    0.3438 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8161    0.4853   -0.9729 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9377   -0.1478   -1.2763 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8380    0.9748   -2.0144 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5049    0.5503   -1.5151 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8782    0.9723   -0.2185 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6511    0.0459    0.5635 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0422   -0.1715    0.0233 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8351    1.1184   -0.0156 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2602    0.6167    0.0573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1852   -0.6815    0.6503 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8558   -0.9636    0.9811 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4565   -1.7284    1.8985 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1760    1.4671    0.6318 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 11 19  1  0
+  8  3  1  0
+ 17 13  1  0
+ 19  6  1  0
+M  END
+>  <ref_url>  (1) 
+https://github.com/mwinokan/BulkDock
+
+>  <submitter_name>  (1) 
+Max Winokan
+
+>  <submitter_email>  (1) 
+max.winokan@diamond.ac.uk
+
+>  <submitter_institution>  (1) 
+DLS
+
+>  <generation_date>  (1) 
+2025-02-11
+
+>  <method>  (1) 
+RNA-Cleft_knitwork_impure
+
+>  <SLURM_JOB_ID>  (1) 
+SLURM_JOB_ID
+
+>  <SLURM_JOB_NAME>  (1) 
+SLURM_JOB_NAME
+
+>  <csv_name>  (1) 
+csv_name
+
+>  <scratch_subdir>  (1) 
+scratch_subdir
+
+>  <fragmenstein_runtime>  (1) 
+fragmenstein_runtime
+
+>  <fragmenstein_outcome>  (1) 
+fragmenstein_outcome
+
+>  <fragmenstein_mode>  (1) 
+fragmenstein_mode
+
+>  <fragmenstein_error>  (1) 
+fragmenstein_error
+
+>  <exports>  (1) 
+exports
+
+>  <HIPPO Pose ID>  (1) 
+HIPPO Pose ID
+
+>  <HIPPO Compound ID>  (1) 
+HIPPO Compound ID
+
+>  <smiles>  (1) 
+smiles
+
+>  <ref_pdb>  (1) 
+protein reference
+
+>  <ref_mols>  (1) 
+fragment inspirations
+
+>  <original ID>  (1) 
+original ID
+
+>  <compound inchikey>  (1) 
+compound inchikey
+
+$$$$
+158
+     RDKit          3D
+
+ 19 21  0  0  0  0  0  0  0  0999 V2000
+  -12.6119    8.8664  -27.9062 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4263    8.7853  -29.1859 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.6738    7.9781  -28.9688 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.8292    8.6311  -28.7370 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9114    7.8590  -28.4864 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.8786    6.4801  -28.4489 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.6424    5.9201  -28.6998 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.5348    6.6417  -28.9637 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.4905    4.4338  -28.6449 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.4478    3.8671  -27.6096 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.8234    4.1694  -28.0135 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.7667    3.5228  -27.0834 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.1449    3.3866  -27.7151 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -20.4852    2.0059  -28.2193 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1093    1.3357  -27.0242 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7109    2.3860  -26.2762 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1647    3.5781  -26.6488 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3996    4.6461  -26.1086 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.0733    5.6461  -28.0714 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 13 12  1  1
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 11 19  1  0
+  8  3  1  0
+ 17 13  1  0
+ 19  6  1  0
+M  END
+>  <ref_pdb>  (1) 
+7ga3-a
+
+>  <name>  (1) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <inchikey>  (1) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <scratch_subdir>  (1) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301887/C108-P28
+
+>  <csv_name>  (1) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch001.csv
+
+>  <HIPPO Compound ID>  (1) 
+108
+
+>  <fragmenstein_mode>  (1) 
+expansion
+
+>  <energy_score>  (1) 
+-35.706117
+
+>  <fragmenstein_outcome>  (1) 
+acceptable
+
+>  <tags>  (1) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (1) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch001
+
+>  <original ID>  (1) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch001_301887.sdf']
+
+>  <alias>  (1) 
+None
+
+>  <distance_score>  (1) 
+0.671869
+
+>  <SLURM_JOB_ID>  (1) 
+301887
+
+>  <ref_mols>  (1) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (1) 
+None
+
+>  <HIPPO Pose ID>  (1) 
+158
+
+>  <fragmenstein_runtime>  (1) 
+15.844559
+
+>  <original SMILES>  (1) 
+CCc1ncc2c(n1)CCN(C[C@H]1CCOC1=O)C2
+
+$$$$
+159
+     RDKit          3D
+
+ 19 21  0  0  0  0  0  0  0  0999 V2000
+  -12.7450    8.7972  -27.8353 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4337    8.4600  -29.1483 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7502    7.7720  -28.9123 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.8352    8.5417  -28.7019 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9918    7.8895  -28.4459 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1049    6.5151  -28.3864 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9329    5.8260  -28.6226 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7498    6.4263  -28.8829 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9517    4.3311  -28.5414 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9471    3.9089  -27.4625 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.3060    4.3469  -27.8032 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.2681    3.9178  -26.7574 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.6805    3.7491  -27.3129 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -20.8813    2.4753  -28.1091 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3383    1.4873  -27.0663 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.0183    2.2555  -26.0747 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.6767    3.5725  -26.1981 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.1110    4.4515  -25.4657 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.3921    5.8249  -28.0172 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 13 12  1  1
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 11 19  1  0
+  8  3  1  0
+ 17 13  1  0
+ 19  6  1  0
+M  END
+>  <ref_pdb>  (2) 
+7g9y-a
+
+>  <name>  (2) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <inchikey>  (2) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <scratch_subdir>  (2) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301887/C108-P40
+
+>  <csv_name>  (2) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch001.csv
+
+>  <HIPPO Compound ID>  (2) 
+108
+
+>  <fragmenstein_mode>  (2) 
+expansion
+
+>  <energy_score>  (2) 
+-37.945163
+
+>  <fragmenstein_outcome>  (2) 
+acceptable
+
+>  <tags>  (2) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (2) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch001
+
+>  <original ID>  (2) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <exports>  (2) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch001_301887.sdf']
+
+>  <alias>  (2) 
+None
+
+>  <distance_score>  (2) 
+0.5189
+
+>  <SLURM_JOB_ID>  (2) 
+301887
+
+>  <ref_mols>  (2) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (2) 
+None
+
+>  <HIPPO Pose ID>  (2) 
+159
+
+>  <fragmenstein_runtime>  (2) 
+15.724391
+
+>  <original SMILES>  (2) 
+CCc1ncc2c(n1)CCN(C[C@H]1CCOC1=O)C2
+
+$$$$
+787
+     RDKit          3D
+
+ 14 16  0  0  0  0  0  0  0  0999 V2000
+  -11.6486    7.8543  -29.3880 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6398    8.7433  -28.3425 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.1649    8.9149  -27.6109 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.8459    7.7791  -28.6781 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.2159    7.3549  -28.5321 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.1469    8.2635  -28.1630 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.4020    7.7924  -28.0296 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.6913    6.4766  -28.2435 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.6574    5.6577  -28.6112 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.4015    6.0465  -28.7805 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1539    4.2589  -28.7561 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.6344    4.3540  -28.7238 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.9422    5.6964  -28.1420 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.9239    7.2874  -29.5773 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  4 14  2  0
+ 14  1  1  0
+ 10  5  1  0
+ 13  8  1  0
+M  END
+>  <ref_pdb>  (3) 
+7ga1-a
+
+>  <name>  (3) 
+PQYPPCQTKRRWQX-UHFFFAOYSA-N
+
+>  <inchikey>  (3) 
+PQYPPCQTKRRWQX-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (3) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C317-P9
+
+>  <csv_name>  (3) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (3) 
+317
+
+>  <fragmenstein_mode>  (3) 
+expansion
+
+>  <energy_score>  (3) 
+-34.077201
+
+>  <fragmenstein_outcome>  (3) 
+acceptable
+
+>  <tags>  (3) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (3) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (3) 
+PQYPPCQTKRRWQX-UHFFFAOYSA-N
+
+>  <exports>  (3) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (3) 
+None
+
+>  <distance_score>  (3) 
+0.931934
+
+>  <SLURM_JOB_ID>  (3) 
+301886
+
+>  <ref_mols>  (3) 
+7ga1-a,7g9y-a
+
+>  <fragmenstein_error>  (3) 
+None
+
+>  <HIPPO Pose ID>  (3) 
+787
+
+>  <fragmenstein_runtime>  (3) 
+2.042208
+
+>  <original SMILES>  (3) 
+c1csc(-c2ncc3c(n2)CNC3)c1
+
+$$$$
+788
+     RDKit          3D
+
+ 14 16  0  0  0  0  0  0  0  0999 V2000
+  -11.6830    7.8772  -29.3699 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7111    8.7849  -28.3412 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.2539    8.9479  -27.6456 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.8918    7.7823  -28.7065 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.2508    7.3217  -28.5792 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.2164    8.1990  -28.2251 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.4544    7.6822  -28.0987 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.6929    6.3553  -28.3106 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.6293    5.5743  -28.6755 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.3883    6.0083  -28.8314 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0715    4.1586  -28.8304 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.5526    4.1970  -28.7915 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.9090    5.5231  -28.2027 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.9452    7.2935  -29.5813 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  4 14  2  0
+ 14  1  1  0
+ 10  5  1  0
+ 13  8  1  0
+M  END
+>  <ref_pdb>  (4) 
+7g9y-a
+
+>  <name>  (4) 
+PQYPPCQTKRRWQX-UHFFFAOYSA-N
+
+>  <inchikey>  (4) 
+PQYPPCQTKRRWQX-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (4) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C317-P40
+
+>  <csv_name>  (4) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (4) 
+317
+
+>  <fragmenstein_mode>  (4) 
+expansion
+
+>  <energy_score>  (4) 
+-33.697313
+
+>  <fragmenstein_outcome>  (4) 
+acceptable
+
+>  <tags>  (4) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (4) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (4) 
+PQYPPCQTKRRWQX-UHFFFAOYSA-N
+
+>  <exports>  (4) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (4) 
+None
+
+>  <distance_score>  (4) 
+0.95902
+
+>  <SLURM_JOB_ID>  (4) 
+301886
+
+>  <ref_mols>  (4) 
+7ga1-a,7g9y-a
+
+>  <fragmenstein_error>  (4) 
+None
+
+>  <HIPPO Pose ID>  (4) 
+788
+
+>  <fragmenstein_runtime>  (4) 
+2.44369
+
+>  <original SMILES>  (4) 
+c1csc(-c2ncc3c(n2)CNC3)c1
+
+$$$$
+807
+     RDKit          3D
+
+ 15 17  0  0  0  0  0  0  0  0999 V2000
+  -17.4008    8.0331  -28.0148 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.2978    8.8076  -27.9783 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.1243    8.1880  -28.1906 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.9071    9.0793  -28.2607 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -12.5866    8.4096  -27.8835 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.1455    7.5398  -29.0507 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7281    8.3929  -30.5361 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.7308    9.6251  -29.6698 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9901    6.8663  -28.4067 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.1217    6.1332  -28.4439 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.3768    6.6771  -28.2584 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.6195    5.8417  -28.2474 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4403    4.4779  -28.7742 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1971    3.8897  -28.2814 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9847    4.6751  -28.7709 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  4  3  1  6
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  3  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 11  1  1  0
+  8  4  1  0
+ 15 10  1  0
+M  END
+>  <ref_pdb>  (5) 
+7ga2-a
+
+>  <name>  (5) 
+KSJBKZLKFVIAHS-QMMMGPOBSA-N
+
+>  <inchikey>  (5) 
+KSJBKZLKFVIAHS-QMMMGPOBSA-N
+
+>  <scratch_subdir>  (5) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C334-P27
+
+>  <csv_name>  (5) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (5) 
+334
+
+>  <fragmenstein_mode>  (5) 
+expansion
+
+>  <energy_score>  (5) 
+-19.210326
+
+>  <fragmenstein_outcome>  (5) 
+acceptable
+
+>  <tags>  (5) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (5) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (5) 
+KSJBKZLKFVIAHS-QMMMGPOBSA-N
+
+>  <exports>  (5) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (5) 
+None
+
+>  <distance_score>  (5) 
+0.67632
+
+>  <SLURM_JOB_ID>  (5) 
+301886
+
+>  <ref_mols>  (5) 
+7ga2-a,7g9y-a
+
+>  <fragmenstein_error>  (5) 
+None
+
+>  <HIPPO Pose ID>  (5) 
+807
+
+>  <fragmenstein_runtime>  (5) 
+7.371841
+
+>  <original SMILES>  (5) 
+c1nc([C@H]2CCSC2)nc2c1CNCC2
+
+$$$$
+808
+     RDKit          3D
+
+ 15 17  0  0  0  0  0  0  0  0999 V2000
+  -17.4658    8.0146  -28.0544 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.3810    8.8146  -28.0236 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.1920    8.2196  -28.2225 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.9909    9.1337  -28.2537 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -12.6659    8.4784  -27.8681 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.1872    7.6525  -29.0496 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7169    8.5650  -30.5146 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.8061    9.7183  -29.6459 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.0279    6.9022  -28.4427 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.1423    6.1427  -28.4736 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.4092    6.6571  -28.2833 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.6280    5.7878  -28.2462 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4230    4.4342  -28.7884 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1636    3.8710  -28.3093 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9726    4.6878  -28.7992 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  4  3  1  6
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  3  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 11  1  1  0
+  8  4  1  0
+ 15 10  1  0
+M  END
+>  <ref_pdb>  (6) 
+7g9y-a
+
+>  <name>  (6) 
+KSJBKZLKFVIAHS-QMMMGPOBSA-N
+
+>  <inchikey>  (6) 
+KSJBKZLKFVIAHS-QMMMGPOBSA-N
+
+>  <scratch_subdir>  (6) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C334-P40
+
+>  <csv_name>  (6) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (6) 
+334
+
+>  <fragmenstein_mode>  (6) 
+expansion
+
+>  <energy_score>  (6) 
+-19.510261
+
+>  <fragmenstein_outcome>  (6) 
+acceptable
+
+>  <tags>  (6) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (6) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (6) 
+KSJBKZLKFVIAHS-QMMMGPOBSA-N
+
+>  <exports>  (6) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (6) 
+None
+
+>  <distance_score>  (6) 
+0.720584
+
+>  <SLURM_JOB_ID>  (6) 
+301886
+
+>  <ref_mols>  (6) 
+7ga2-a,7g9y-a
+
+>  <fragmenstein_error>  (6) 
+None
+
+>  <HIPPO Pose ID>  (6) 
+808
+
+>  <fragmenstein_runtime>  (6) 
+7.383043
+
+>  <original SMILES>  (6) 
+c1nc([C@H]2CCSC2)nc2c1CNCC2
+
+$$$$
+811
+     RDKit          3D
+
+ 16 18  0  0  0  0  0  0  0  0999 V2000
+  -17.7578    7.8982  -27.9312 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.7720    8.8121  -27.9934 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.5878    8.3848  -28.4628 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.4954    9.4258  -28.5499 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -13.3650    9.1137  -27.5739 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.2158    7.7995  -28.0221 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7614    8.3245  -29.6801 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.9527    8.3836  -30.6115 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.0099    9.8206  -30.2745 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.3232    7.1129  -28.8195 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.3311    6.2263  -28.7079 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.5973    6.5772  -28.2848 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.7082    5.5824  -28.1582 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4172    4.2666  -28.7530 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0438    3.8580  -28.4618 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.0494    4.8116  -29.1160 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  4  3  1  6
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 12  1  1  0
+  9  4  1  0
+ 16 11  1  0
+M  END
+>  <ref_pdb>  (7) 
+7ga2-a
+
+>  <name>  (7) 
+NHPNKNWQODGDGS-SNVBAGLBSA-N
+
+>  <inchikey>  (7) 
+NHPNKNWQODGDGS-SNVBAGLBSA-N
+
+>  <scratch_subdir>  (7) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C338-P27
+
+>  <csv_name>  (7) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (7) 
+338
+
+>  <fragmenstein_mode>  (7) 
+expansion
+
+>  <energy_score>  (7) 
+-31.147596
+
+>  <fragmenstein_outcome>  (7) 
+acceptable
+
+>  <tags>  (7) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (7) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (7) 
+NHPNKNWQODGDGS-SNVBAGLBSA-N
+
+>  <exports>  (7) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (7) 
+None
+
+>  <distance_score>  (7) 
+0.993256
+
+>  <SLURM_JOB_ID>  (7) 
+301886
+
+>  <ref_mols>  (7) 
+7ga2-a,7g9y-a
+
+>  <fragmenstein_error>  (7) 
+None
+
+>  <HIPPO Pose ID>  (7) 
+811
+
+>  <fragmenstein_runtime>  (7) 
+7.288013
+
+>  <original SMILES>  (7) 
+c1nc([C@H]2CSCCS2)nc2c1CNCC2
+
+$$$$
+813
+     RDKit          3D
+
+ 16 18  0  0  0  0  0  0  0  0999 V2000
+  -17.5335    8.0006  -28.0291 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.4769    8.8346  -28.0743 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.2983    8.2844  -28.4044 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.1229    9.2262  -28.5192 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.0084    8.8298  -27.5416 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6882    8.5569  -28.2414 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.8618    7.6089  -29.4138 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.8694    8.1216  -30.4379 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.6547    9.3445  -29.9740 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.1050    6.9734  -28.6496 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.1919    6.1781  -28.5897 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.4552    6.6507  -28.2940 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.6494    5.7522  -28.2058 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4342    4.3990  -28.7475 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1275    3.8823  -28.3451 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.0032    4.7298  -28.9314 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 12  1  1  0
+  9  4  1  0
+ 16 11  1  0
+M  END
+>  <ref_pdb>  (8) 
+7ga2-a
+
+>  <name>  (8) 
+ZMHZVNOBPUNDCE-UHFFFAOYSA-N
+
+>  <inchikey>  (8) 
+ZMHZVNOBPUNDCE-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (8) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C339-P27
+
+>  <csv_name>  (8) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (8) 
+339
+
+>  <fragmenstein_mode>  (8) 
+expansion
+
+>  <energy_score>  (8) 
+-15.345917
+
+>  <fragmenstein_outcome>  (8) 
+acceptable
+
+>  <tags>  (8) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (8) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (8) 
+ZMHZVNOBPUNDCE-UHFFFAOYSA-N
+
+>  <exports>  (8) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (8) 
+None
+
+>  <distance_score>  (8) 
+0.755765
+
+>  <SLURM_JOB_ID>  (8) 
+301886
+
+>  <ref_mols>  (8) 
+7ga2-a,7g9y-a
+
+>  <fragmenstein_error>  (8) 
+None
+
+>  <HIPPO Pose ID>  (8) 
+813
+
+>  <fragmenstein_runtime>  (8) 
+7.175985
+
+>  <original SMILES>  (8) 
+c1nc(C2CCCCC2)nc2c1CNCC2
+
+$$$$
+814
+     RDKit          3D
+
+ 16 18  0  0  0  0  0  0  0  0999 V2000
+  -17.5993    8.0019  -28.0673 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.5674    8.8656  -28.1271 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.3746    8.3474  -28.4601 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.2225    9.3193  -28.5573 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.1327    8.9766  -27.5321 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7849    8.7098  -28.1811 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.9147    7.7225  -29.3256 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.8616    8.2229  -30.4089 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.7034    9.4261  -29.9947 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.1480    7.0427  -28.7086 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.2117    6.2167  -28.6351 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.4840    6.6529  -28.3224 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.6460    5.7163  -28.2009 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4064    4.3760  -28.7634 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0796    3.8908  -28.3906 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9886    4.7753  -28.9849 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 12  1  1  0
+  9  4  1  0
+ 16 11  1  0
+M  END
+>  <ref_pdb>  (9) 
+7g9y-a
+
+>  <name>  (9) 
+ZMHZVNOBPUNDCE-UHFFFAOYSA-N
+
+>  <inchikey>  (9) 
+ZMHZVNOBPUNDCE-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (9) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C339-P40
+
+>  <csv_name>  (9) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (9) 
+339
+
+>  <fragmenstein_mode>  (9) 
+expansion
+
+>  <energy_score>  (9) 
+-15.427162
+
+>  <fragmenstein_outcome>  (9) 
+acceptable
+
+>  <tags>  (9) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (9) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (9) 
+ZMHZVNOBPUNDCE-UHFFFAOYSA-N
+
+>  <exports>  (9) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (9) 
+None
+
+>  <distance_score>  (9) 
+0.812577
+
+>  <SLURM_JOB_ID>  (9) 
+301886
+
+>  <ref_mols>  (9) 
+7ga2-a,7g9y-a
+
+>  <fragmenstein_error>  (9) 
+None
+
+>  <HIPPO Pose ID>  (9) 
+814
+
+>  <fragmenstein_runtime>  (9) 
+7.573115
+
+>  <original SMILES>  (9) 
+c1nc(C2CCCCC2)nc2c1CNCC2
+
+$$$$
+986
+     RDKit          3D
+
+ 14 16  0  0  0  0  0  0  0  0999 V2000
+  -17.4639    8.0457  -28.1512 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.3290    8.7746  -28.1352 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.1570    8.1329  -28.3303 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.0139    8.9442  -28.3462 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7976    8.2600  -27.8966 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.8575    8.2477  -29.0982 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7846    8.4239  -30.2822 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.8101    9.4006  -29.7274 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.0549    6.8078  -28.5688 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.2165    6.1444  -28.5892 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.4438    6.7056  -28.3698 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.5098    5.6824  -28.4557 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.7941    4.3672  -28.4210 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.4069    4.6816  -28.8671 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  3  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 11  1  1  0
+  8  4  1  0
+ 14 10  1  0
+M  END
+>  <ref_pdb>  (10) 
+7g9y-a
+
+>  <name>  (10) 
+QEGDBTBJSBSBCD-UHFFFAOYSA-N
+
+>  <inchikey>  (10) 
+QEGDBTBJSBSBCD-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (10) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C522-P40
+
+>  <csv_name>  (10) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (10) 
+522
+
+>  <fragmenstein_mode>  (10) 
+expansion
+
+>  <energy_score>  (10) 
+-7.594674
+
+>  <fragmenstein_outcome>  (10) 
+acceptable
+
+>  <tags>  (10) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (10) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (10) 
+QEGDBTBJSBSBCD-UHFFFAOYSA-N
+
+>  <exports>  (10) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (10) 
+None
+
+>  <distance_score>  (10) 
+0.827456
+
+>  <SLURM_JOB_ID>  (10) 
+301886
+
+>  <ref_mols>  (10) 
+7ga2-a,7g9y-a
+
+>  <fragmenstein_error>  (10) 
+None
+
+>  <HIPPO Pose ID>  (10) 
+986
+
+>  <fragmenstein_runtime>  (10) 
+8.654365
+
+>  <original SMILES>  (10) 
+c1nc(N2CCCC2)nc2c1CNC2
+
+$$$$
+1209
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+  -13.9387    3.5946  -26.4267 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9193    4.2227  -26.4325 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.7652    4.7605  -25.2671 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.5330    4.7206  -23.8452 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.3691    5.6247  -23.4672 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.9505    5.5092  -22.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9569    5.9400  -21.0454 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9515    5.4086  -19.7160 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9874    6.2570  -19.0298 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9522    7.4950  -19.7429 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.3601    7.2638  -20.9577 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.2059    8.1310  -21.8009 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.5625    4.5880  -27.6783 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.7143    4.0277  -28.2031 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9679    4.6979  -29.3687 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.0207    5.5967  -29.6662 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.1922    5.5759  -28.6180 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.1086    6.5544  -28.4924 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.9165    7.3761  -27.3416 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.9114    8.3014  -27.5321 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.1769    8.1531  -29.0691 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.2252    6.8735  -29.4994 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+  2 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 11  7  1  0
+ 17 13  1  0
+ 22 18  2  0
+M  END
+>  <ref_pdb>  (11) 
+7ga1-a
+
+>  <name>  (11) 
+IOJORITXTXIATK-UHFFFAOYSA-N
+
+>  <inchikey>  (11) 
+IOJORITXTXIATK-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (11) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C800-P9
+
+>  <csv_name>  (11) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (11) 
+800
+
+>  <fragmenstein_mode>  (11) 
+expansion
+
+>  <energy_score>  (11) 
+-29.56108
+
+>  <fragmenstein_outcome>  (11) 
+acceptable
+
+>  <tags>  (11) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (11) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (11) 
+IOJORITXTXIATK-UHFFFAOYSA-N
+
+>  <exports>  (11) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (11) 
+None
+
+>  <distance_score>  (11) 
+0.937281
+
+>  <SLURM_JOB_ID>  (11) 
+301886
+
+>  <ref_mols>  (11) 
+7ga1-a,7ga3-a
+
+>  <fragmenstein_error>  (11) 
+None
+
+>  <HIPPO Pose ID>  (11) 
+1209
+
+>  <fragmenstein_runtime>  (11) 
+10.092643
+
+>  <original SMILES>  (11) 
+O=C(NCCCN1CCOC1=O)c1c[nH]nc1-c1ccsc1
+
+$$$$
+1210
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+  -13.6780    3.3432  -26.8066 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.5658    4.0901  -26.7334 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.2413    4.7127  -25.5085 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.0321    4.4782  -24.1083 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.4992    5.6427  -23.2373 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9437    6.0875  -23.5191 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0607    6.9121  -24.7169 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.1964    6.8427  -25.5921 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.9041    7.9614  -26.5622 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1524    8.8985  -25.7817 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.6161    8.2269  -24.7185 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.8843    8.7413  -23.8893 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.3054    4.5151  -27.9030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.4287    3.8972  -28.4268 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.8267    4.6639  -29.4885 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.0423    5.7340  -29.6754 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.1059    5.6394  -28.7276 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.0629    6.6529  -28.5854 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.8653    7.4281  -27.4072 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.8901    8.3861  -27.5838 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.1773    8.3086  -29.1348 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.2063    7.0267  -29.5959 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+  2 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 11  7  1  0
+ 17 13  1  0
+ 22 18  2  0
+M  END
+>  <ref_pdb>  (12) 
+7ga3-a
+
+>  <name>  (12) 
+IOJORITXTXIATK-UHFFFAOYSA-N
+
+>  <inchikey>  (12) 
+IOJORITXTXIATK-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (12) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C800-P28
+
+>  <csv_name>  (12) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (12) 
+800
+
+>  <fragmenstein_mode>  (12) 
+expansion
+
+>  <energy_score>  (12) 
+-27.448189
+
+>  <fragmenstein_outcome>  (12) 
+acceptable
+
+>  <tags>  (12) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (12) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (12) 
+IOJORITXTXIATK-UHFFFAOYSA-N
+
+>  <exports>  (12) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (12) 
+None
+
+>  <distance_score>  (12) 
+0.820486
+
+>  <SLURM_JOB_ID>  (12) 
+301886
+
+>  <ref_mols>  (12) 
+7ga1-a,7ga3-a
+
+>  <fragmenstein_error>  (12) 
+None
+
+>  <HIPPO Pose ID>  (12) 
+1210
+
+>  <fragmenstein_runtime>  (12) 
+11.189652
+
+>  <original SMILES>  (12) 
+O=C(NCCCN1CCOC1=O)c1c[nH]nc1-c1ccsc1
+
+$$$$
+1386
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+  -12.7856    8.9591  -27.5992 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.3790    8.6355  -28.9744 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.5585    9.9175  -29.8056 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.3953    7.7256  -29.7256 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7306    7.9610  -28.7840 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.7699    8.7288  -28.3874 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9682    8.1207  -28.2792 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1548    6.7828  -28.5231 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.0334    6.0822  -28.9046 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.8164    6.6388  -29.0273 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.2124    4.6312  -29.2282 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1521    4.0066  -28.1954 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4341    4.7105  -27.9702 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.8606    4.6467  -26.5593 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.6402    3.3679  -26.1700 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -20.9637    3.1876  -26.8841 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.6111    2.3409  -28.0782 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.3868    1.6174  -27.6081 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.8520    0.6771  -28.1788 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.8997    2.1768  -26.4592 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4733    6.0855  -28.5115 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 15 14  1  6
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 13 21  1  0
+ 10  5  1  0
+ 20 15  1  0
+ 21  8  1  0
+M  END
+>  <ref_pdb>  (13) 
+7g9y-a
+
+>  <name>  (13) 
+AUVNTZGTWNBYHM-GFCCVEGCSA-N
+
+>  <inchikey>  (13) 
+AUVNTZGTWNBYHM-GFCCVEGCSA-N
+
+>  <scratch_subdir>  (13) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C1065-P40
+
+>  <csv_name>  (13) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (13) 
+1065
+
+>  <fragmenstein_mode>  (13) 
+expansion
+
+>  <energy_score>  (13) 
+-45.643803
+
+>  <fragmenstein_outcome>  (13) 
+acceptable
+
+>  <tags>  (13) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (13) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (13) 
+AUVNTZGTWNBYHM-GFCCVEGCSA-N
+
+>  <exports>  (13) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (13) 
+None
+
+>  <distance_score>  (13) 
+0.268433
+
+>  <SLURM_JOB_ID>  (13) 
+301886
+
+>  <ref_mols>  (13) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (13) 
+None
+
+>  <HIPPO Pose ID>  (13) 
+1386
+
+>  <fragmenstein_runtime>  (13) 
+15.101032
+
+>  <original SMILES>  (13) 
+CC(C)(C)c1ncc2c(n1)CCN(C[C@H]1CCC(=O)O1)C2
+
+$$$$
+1387
+     RDKit          3D
+
+ 23 26  0  0  0  0  0  0  0  0999 V2000
+  -12.9312    8.8848  -27.6347 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.5377    8.5551  -29.0059 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.7770    9.8420  -29.8108 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.5202    7.6935  -29.7760 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.8620    7.8248  -28.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.8922    8.4972  -28.2464 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0225    7.7911  -28.0029 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1573    6.4416  -28.2528 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.0659    5.8669  -28.8622 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9181    6.5236  -29.1278 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.1200    4.4220  -29.2208 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.8804    3.6790  -28.1429 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.2616    4.1582  -27.9805 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.8395    3.4224  -26.8404 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.3048    3.6396  -26.4381 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -21.3444    3.2244  -27.4779 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9379    1.9873  -26.8883 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.4651    0.8851  -27.7733 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4309    1.7578  -27.0318 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.2890    1.7287  -25.5925 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4324    0.7280  -24.9100 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.5073    2.7967  -25.2719 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.3650    5.6386  -27.8413 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 15 14  1  6
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 17 20  1  0
+ 20 21  2  0
+ 20 22  1  0
+ 13 23  1  0
+ 10  5  1  0
+ 22 15  1  0
+ 23  8  1  0
+ 19 17  1  0
+M  END
+>  <ref_pdb>  (14) 
+7ga3-a
+
+>  <name>  (14) 
+GHIHTFPIPKHPPT-CYBMUJFWSA-N
+
+>  <inchikey>  (14) 
+GHIHTFPIPKHPPT-CYBMUJFWSA-N
+
+>  <scratch_subdir>  (14) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C1066-P28
+
+>  <csv_name>  (14) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (14) 
+1066
+
+>  <fragmenstein_mode>  (14) 
+expansion
+
+>  <energy_score>  (14) 
+-34.966967
+
+>  <fragmenstein_outcome>  (14) 
+acceptable
+
+>  <tags>  (14) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (14) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (14) 
+GHIHTFPIPKHPPT-CYBMUJFWSA-N
+
+>  <exports>  (14) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (14) 
+None
+
+>  <distance_score>  (14) 
+0.943039
+
+>  <SLURM_JOB_ID>  (14) 
+301886
+
+>  <ref_mols>  (14) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (14) 
+None
+
+>  <HIPPO Pose ID>  (14) 
+1387
+
+>  <fragmenstein_runtime>  (14) 
+38.773809
+
+>  <original SMILES>  (14) 
+CC(C)(C)c1ncc2c(n1)CCN(C[C@H]1CC3(CC3)C(=O)O1)C2
+
+$$$$
+1388
+     RDKit          3D
+
+ 23 26  0  0  0  0  0  0  0  0999 V2000
+  -12.9208    8.9048  -27.6094 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4893    8.5795  -28.9973 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.7085    9.8754  -29.7982 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.4596    7.7291  -29.7569 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.8085    7.8307  -28.8277 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9151    8.5453  -28.5399 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0585    7.8503  -28.3508 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1400    6.4752  -28.4086 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9560    5.8388  -28.7097 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7884    6.4859  -28.9092 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9446    4.3451  -28.7809 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9002    3.8020  -27.7258 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.2804    4.2348  -27.9837 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.1599    3.7285  -26.9064 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.6529    3.7457  -27.2488 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -21.1344    2.5444  -28.0600 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5421    2.4281  -27.5658 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3100    1.1547  -27.8187 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7085    2.4158  -28.5286 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.6281    3.1550  -26.2800 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.6017    3.2094  -25.5467 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4237    3.7429  -26.0260 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4063    5.7220  -28.1058 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 15 14  1  1
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 17 20  1  0
+ 20 21  2  0
+ 20 22  1  0
+ 13 23  1  0
+ 10  5  1  0
+ 22 15  1  0
+ 23  8  1  0
+ 19 17  1  0
+M  END
+>  <ref_pdb>  (15) 
+7g9y-a
+
+>  <name>  (15) 
+GHIHTFPIPKHPPT-CYBMUJFWSA-N
+
+>  <inchikey>  (15) 
+GHIHTFPIPKHPPT-CYBMUJFWSA-N
+
+>  <scratch_subdir>  (15) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C1066-P40
+
+>  <csv_name>  (15) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (15) 
+1066
+
+>  <fragmenstein_mode>  (15) 
+expansion
+
+>  <energy_score>  (15) 
+-37.434238
+
+>  <fragmenstein_outcome>  (15) 
+acceptable
+
+>  <tags>  (15) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (15) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (15) 
+GHIHTFPIPKHPPT-CYBMUJFWSA-N
+
+>  <exports>  (15) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (15) 
+None
+
+>  <distance_score>  (15) 
+0.808113
+
+>  <SLURM_JOB_ID>  (15) 
+301886
+
+>  <ref_mols>  (15) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (15) 
+None
+
+>  <HIPPO Pose ID>  (15) 
+1388
+
+>  <fragmenstein_runtime>  (15) 
+38.20578
+
+>  <original SMILES>  (15) 
+CC(C)(C)c1ncc2c(n1)CCN(C[C@H]1CC3(CC3)C(=O)O1)C2
+
+$$$$
+1405
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+  -12.6549    8.7649  -27.8159 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.2976    8.3912  -29.1490 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.3787    9.5991  -30.0808 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.6572    7.7767  -28.9116 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.6869    8.5942  -28.6158 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.8756    8.0000  -28.3897 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0681    6.6351  -28.4237 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9487    5.8857  -28.7206 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7375    6.4328  -28.9653 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.0674    4.3924  -28.7972 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.2028    3.8879  -27.9041 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4617    4.5463  -28.2650 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.6225    4.0122  -27.5220 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.2057    2.7140  -28.1167 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.5108    2.3039  -27.4608 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.0553    1.4812  -26.2810 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.7635    0.9119  -26.7814 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.1430   -0.0054  -26.2683 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.3409    1.5913  -27.8852 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.3843    6.0119  -28.0699 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 14 13  1  1
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 12 20  1  0
+  9  4  1  0
+ 19 14  1  0
+ 20  7  1  0
+M  END
+>  <ref_pdb>  (16) 
+7ga3-a
+
+>  <name>  (16) 
+KBWXFXXIZSGKKU-LBPRGKRZSA-N
+
+>  <inchikey>  (16) 
+KBWXFXXIZSGKKU-LBPRGKRZSA-N
+
+>  <scratch_subdir>  (16) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C1076-P28
+
+>  <csv_name>  (16) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (16) 
+1076
+
+>  <fragmenstein_mode>  (16) 
+expansion
+
+>  <energy_score>  (16) 
+-34.593431
+
+>  <fragmenstein_outcome>  (16) 
+acceptable
+
+>  <tags>  (16) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (16) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (16) 
+KBWXFXXIZSGKKU-LBPRGKRZSA-N
+
+>  <exports>  (16) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (16) 
+None
+
+>  <distance_score>  (16) 
+0.297532
+
+>  <SLURM_JOB_ID>  (16) 
+301886
+
+>  <ref_mols>  (16) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (16) 
+None
+
+>  <HIPPO Pose ID>  (16) 
+1405
+
+>  <fragmenstein_runtime>  (16) 
+13.339858
+
+>  <original SMILES>  (16) 
+CC(C)c1ncc2c(n1)CCN(C[C@@H]1CCC(=O)O1)C2
+
+$$$$
+1406
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+  -12.6802    8.8050  -27.8252 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.3254    8.4507  -29.1641 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4036    9.6733  -30.0773 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.6867    7.8324  -28.9381 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.7134    8.6431  -28.6140 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.8968    8.0442  -28.3702 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0886    6.6794  -28.4123 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9797    5.9407  -28.7638 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7729    6.4899  -29.0250 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.1080    4.4509  -28.8401 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.0936    3.9732  -27.7743 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4260    4.5624  -27.9649 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.3501    4.1591  -26.8829 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.8189    2.6918  -26.9067 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -20.7942    2.3677  -28.0163 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.1336    2.7309  -27.4188 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8938    2.5337  -25.9547 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7523    2.5099  -25.0875 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.5559    2.4198  -25.7027 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.3950    6.0509  -28.0283 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 14 13  1  1
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 12 20  1  0
+  9  4  1  0
+ 19 14  1  0
+ 20  7  1  0
+M  END
+>  <ref_pdb>  (17) 
+7g9y-a
+
+>  <name>  (17) 
+KBWXFXXIZSGKKU-LBPRGKRZSA-N
+
+>  <inchikey>  (17) 
+KBWXFXXIZSGKKU-LBPRGKRZSA-N
+
+>  <scratch_subdir>  (17) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C1076-P40
+
+>  <csv_name>  (17) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (17) 
+1076
+
+>  <fragmenstein_mode>  (17) 
+expansion
+
+>  <energy_score>  (17) 
+-34.174895
+
+>  <fragmenstein_outcome>  (17) 
+acceptable
+
+>  <tags>  (17) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (17) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (17) 
+KBWXFXXIZSGKKU-LBPRGKRZSA-N
+
+>  <exports>  (17) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (17) 
+None
+
+>  <distance_score>  (17) 
+0.343446
+
+>  <SLURM_JOB_ID>  (17) 
+301886
+
+>  <ref_mols>  (17) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (17) 
+None
+
+>  <HIPPO Pose ID>  (17) 
+1406
+
+>  <fragmenstein_runtime>  (17) 
+13.941044
+
+>  <original SMILES>  (17) 
+CC(C)c1ncc2c(n1)CCN(C[C@@H]1CCC(=O)O1)C2
+
+$$$$
+1413
+     RDKit          3D
+
+ 19 21  0  0  0  0  0  0  0  0999 V2000
+  -12.6119    8.8664  -27.9062 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4263    8.7853  -29.1859 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.6738    7.9781  -28.9688 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.8292    8.6311  -28.7370 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9114    7.8590  -28.4864 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.8786    6.4801  -28.4489 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.6424    5.9201  -28.6998 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.5348    6.6417  -28.9637 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.4905    4.4338  -28.6449 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.4478    3.8671  -27.6096 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.8234    4.1694  -28.0135 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.7667    3.5228  -27.0834 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.1449    3.3866  -27.7151 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -20.4852    2.0059  -28.2193 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1093    1.3357  -27.0242 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7109    2.3860  -26.2762 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1647    3.5781  -26.6488 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3996    4.6461  -26.1086 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.0733    5.6461  -28.0714 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 13 12  1  1
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 11 19  1  0
+  8  3  1  0
+ 17 13  1  0
+ 19  6  1  0
+M  END
+>  <ref_pdb>  (18) 
+7ga3-a
+
+>  <name>  (18) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <inchikey>  (18) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <scratch_subdir>  (18) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C108-P28
+
+>  <csv_name>  (18) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (18) 
+108
+
+>  <fragmenstein_mode>  (18) 
+expansion
+
+>  <energy_score>  (18) 
+-35.706117
+
+>  <fragmenstein_outcome>  (18) 
+acceptable
+
+>  <tags>  (18) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (18) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (18) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <exports>  (18) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (18) 
+None
+
+>  <distance_score>  (18) 
+0.671869
+
+>  <SLURM_JOB_ID>  (18) 
+301886
+
+>  <ref_mols>  (18) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (18) 
+None
+
+>  <HIPPO Pose ID>  (18) 
+1413
+
+>  <fragmenstein_runtime>  (18) 
+8.037087
+
+>  <original SMILES>  (18) 
+CCc1ncc2c(n1)CCN(C[C@H]1CCOC1=O)C2
+
+$$$$
+1414
+     RDKit          3D
+
+ 19 21  0  0  0  0  0  0  0  0999 V2000
+  -12.7450    8.7972  -27.8353 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4337    8.4600  -29.1483 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7502    7.7720  -28.9123 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.8352    8.5417  -28.7019 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9918    7.8895  -28.4459 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1049    6.5151  -28.3864 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9329    5.8260  -28.6226 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7498    6.4263  -28.8829 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.9517    4.3311  -28.5414 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.9471    3.9089  -27.4625 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.3060    4.3469  -27.8032 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.2681    3.9178  -26.7574 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.6805    3.7491  -27.3129 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -20.8813    2.4753  -28.1091 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3383    1.4873  -27.0663 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.0183    2.2555  -26.0747 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.6767    3.5725  -26.1981 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.1110    4.4515  -25.4657 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.3921    5.8249  -28.0172 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 13 12  1  1
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 11 19  1  0
+  8  3  1  0
+ 17 13  1  0
+ 19  6  1  0
+M  END
+>  <ref_pdb>  (19) 
+7g9y-a
+
+>  <name>  (19) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <inchikey>  (19) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <scratch_subdir>  (19) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301886/C108-P40
+
+>  <csv_name>  (19) 
+Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000.csv
+
+>  <HIPPO Compound ID>  (19) 
+108
+
+>  <fragmenstein_mode>  (19) 
+expansion
+
+>  <energy_score>  (19) 
+-37.945163
+
+>  <fragmenstein_outcome>  (19) 
+acceptable
+
+>  <tags>  (19) 
+['Fragmenstein placed']
+
+>  <SLURM_JOB_NAME>  (19) 
+BulkDock.place:ZIKA_NS3_helicase:Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000
+
+>  <original ID>  (19) 
+BOBAJOXTBSBANO-SNVBAGLBSA-N
+
+>  <exports>  (19) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/Zika_NS3_RNA-Cleft_knitwork_impure_split1000_batch000_301886.sdf']
+
+>  <alias>  (19) 
+None
+
+>  <distance_score>  (19) 
+0.5189
+
+>  <SLURM_JOB_ID>  (19) 
+301886
+
+>  <ref_mols>  (19) 
+7ga3-a,7g9y-a
+
+>  <fragmenstein_error>  (19) 
+None
+
+>  <HIPPO Pose ID>  (19) 
+1414
+
+>  <fragmenstein_runtime>  (19) 
+8.148003
+
+>  <original SMILES>  (19) 
+CCc1ncc2c(n1)CCN(C[C@H]1CCOC1=O)C2
+
+$$$$
